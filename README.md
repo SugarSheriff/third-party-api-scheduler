@@ -93,7 +93,7 @@ You are required to submit the following for review:
 
 * The URL of the deployed application
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* https://github.com/wowzowski/third-party-api-scheduler
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
