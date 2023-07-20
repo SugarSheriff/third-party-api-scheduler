@@ -91,7 +91,7 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+* https://wowzowski.github.io/third-party-api-scheduler/
 
 * https://github.com/wowzowski/third-party-api-scheduler
 
